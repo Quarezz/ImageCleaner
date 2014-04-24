@@ -1,4 +1,4 @@
-ImageFinder
+ImageCleaned
 ===========
 
 Simple app for xCode to find images that are not used in source code.
