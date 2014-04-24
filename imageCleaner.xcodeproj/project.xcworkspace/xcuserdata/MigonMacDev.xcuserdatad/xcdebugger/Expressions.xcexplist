@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[AppDelegate searchForNonusedImagesIn:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mImagesArray">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate findAllImages:]:AppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate checkIfImageIsUsed:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "images">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AppDelegate find:]:AppDelegate.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
